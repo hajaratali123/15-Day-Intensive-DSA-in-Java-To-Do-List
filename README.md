@@ -84,5 +84,21 @@
 - [ ] Build a Portfolio on GitHub
 - [ ] Plan the Next Steps in Learning
 
+## 📌 List of Patterns Involved
+- [ ] Solid Square
+- [ ] Solid Rectangle
+- [ ] Number Square
+- [ ] Star Triangle
+- [ ] Star Triangle Reverse
+- [ ] Number Triangle
+- [ ] Odd Number Triangle
+- [ ] Alphabet Square
+- [ ] Star Plus
+- [ ] Star Cross
+- [ ] Floyd’s Triangle
+- [ ] Binary Triangle
+- [ ] Star Triangle Flipped
+- [ ] Number Triangle Flipped
+
 🚀 **Daily Practice Tip**: Solve at least 10-15 problems per day on platforms like LeetCode, CodeChef, or GeeksforGeeks. 💻🔥
 
