@@ -33,9 +33,6 @@ public class twoD {
 
         }
         System.out.println(Arrays.deepToString(arr));
-
-
-
         int[][] matrix = {
                 {1, 2, 3},
                 {4, 5, 6}
