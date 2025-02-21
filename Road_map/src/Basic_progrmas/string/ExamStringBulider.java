@@ -1,8 +1,6 @@
 package Basic_progrmas.string;
 
-public class StringBuffer {
-    public StringBuffer(String java) {
-    }
+public class ExamStringBulider {
 
     public static void main(String[] args) {
         StringBuilder sb = new StringBuilder("Hello");
@@ -14,8 +12,5 @@ public class StringBuffer {
         System.out.println(sbf); // Output: "Java Rocks!"
 
 
-    }
-
-    void append(String s) {
     }
 }
