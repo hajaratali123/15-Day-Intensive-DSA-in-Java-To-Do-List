@@ -3,6 +3,7 @@ package Stacks;
 import java.util.Stack;
 
 public class SortStack {
+
     public static void sort(Stack<Integer> stack) {
         if (stack.isEmpty()) return;
         int top = stack.pop();
