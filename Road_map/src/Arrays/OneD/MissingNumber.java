@@ -1,4 +1,4 @@
-package Basic_progrmas.Arrays.OneD;
+package Arrays.OneD;
 
 
 //Find the Missing Number in an Array of 1 to N

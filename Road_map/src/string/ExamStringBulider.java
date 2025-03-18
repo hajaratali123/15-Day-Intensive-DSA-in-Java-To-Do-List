@@ -1,4 +1,4 @@
-package Basic_progrmas.string;
+package string;
 
 public class ExamStringBulider {
 

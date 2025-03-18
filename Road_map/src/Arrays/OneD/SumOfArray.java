@@ -1,4 +1,4 @@
-package Basic_progrmas.Arrays.OneD;
+package Arrays.OneD;
 
 public class SumOfArray {
     public static void main(String[] args) {

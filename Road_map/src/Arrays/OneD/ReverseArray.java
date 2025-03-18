@@ -1,4 +1,4 @@
-package Basic_progrmas.Arrays.OneD;
+package Arrays.OneD;
 
 import java.util.Arrays;
 

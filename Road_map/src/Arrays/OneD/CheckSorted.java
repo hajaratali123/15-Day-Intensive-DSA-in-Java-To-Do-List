@@ -1,4 +1,4 @@
-package Basic_progrmas.Arrays.OneD;
+package Arrays.OneD;
 
 //Check if an Array is Sorted (Ascending Order)
 

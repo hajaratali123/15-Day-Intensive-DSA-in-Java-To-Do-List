@@ -1,4 +1,4 @@
-package Basic_progrmas.llinkedList.CircularLinkedList;
+package llinkedList.CircularLinkedList;
 
 class CircularLinkedList {
     static class Node {

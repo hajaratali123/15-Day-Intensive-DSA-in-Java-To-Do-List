@@ -1,4 +1,4 @@
-package Basic_progrmas.llinkedList.DoublyLinkedList;
+package llinkedList.DoublyLinkedList;
 
 class DoublyLinkedList {
     static class Node {

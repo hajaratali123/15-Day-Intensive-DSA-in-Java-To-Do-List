@@ -1,4 +1,4 @@
-package Basic_progrmas.llinkedList.DoublyLinkedList;
+package llinkedList.DoublyLinkedList;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Basic_progrmas.llinkedList.singly;
+package llinkedList.singly;
 
 public class LinkedListUtils {
     // ✅ Print Linked List

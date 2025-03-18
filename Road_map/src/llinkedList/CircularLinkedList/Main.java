@@ -1,4 +1,4 @@
-package Basic_progrmas.llinkedList.CircularLinkedList;
+package llinkedList.CircularLinkedList;
 
 public class Main {
     public static void main(String[] args) {
