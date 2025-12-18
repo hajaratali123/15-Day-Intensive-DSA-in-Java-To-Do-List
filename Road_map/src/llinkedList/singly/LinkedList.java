@@ -17,6 +17,9 @@ public class LinkedList {
         size++;
     }
 
+
+    
+
     // ✅ Insert at Head
     public void insertAtHead(int data) {
         Node newNode = new Node(data);
@@ -49,6 +52,17 @@ public class LinkedList {
             temp.next = newNode;
             size++;
         }
+    }
+
+    void InsertAtGivenPosition(int position, int data) {
+       if(position <0 ||position > size){
+        System.out.println("Invalid Position");
+        return;
+       }
+       if(position ==0){
+        insertAtHead(data);
+       }
+       
     }
 
     // ✅ Delete at Head

@@ -52,7 +52,5 @@ public class string {
         System.out.println(text3.startsWith("Hello")); // true
         System.out.println(text3.endsWith("Java"));   // false
 
-
-
     }
 }
